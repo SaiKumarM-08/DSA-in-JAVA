@@ -1,0 +1,25 @@
+DATA STRUCTURES
+  A Data Structure is particular way of organizing data in a computer so that it can be used effectivly.
+  Ex :- We can store a list of items having the same data-types using the array daya structures.
+  
+  Data Structures :- 
+                      1) Linear DS
+                          - Arrays
+                          - Linked List
+                          - Stack
+                          - Queue
+                       
+                     2) Non-Linear DS
+                          - Tree
+                          - Graph
+                          
+                          
+ALGORITHMS
+  An Algorithms id set of instructions tp perform a task or to slove a given problem.
+  Ex:- Print average of 3 given numbers
+        
+        Step1 :- perform sum of 3 numbers
+        Step2 :- store it in a variable sum.
+        Step3 :- Divide the sum by 3
+        Step4 :- store the value in variable in avg
+        Step5 :- print the value stored in avg.
