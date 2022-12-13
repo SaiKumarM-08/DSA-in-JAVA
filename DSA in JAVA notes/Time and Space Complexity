@@ -1,0 +1,14 @@
+Time Complexity
+      The amount of time taken by Algorithm to run, the input processed by an Algorithm helps in determining the time Complexity.
+      
+      Example:- file...
+      
+      Note :- Analysis of Algorithm, there are different mathematical tools which can help us determining Time Complexity.
+      
+      
+      
+Space Complexity
+      the amount of memory or space taken by Algorithm to run.
+      
+      The memory required to process the input by an algorithm help in determining the Space Complexity.
+      
